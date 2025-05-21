@@ -52,8 +52,8 @@ The JavaScript file:
 
 ## ✨ Example
 
->  Input 1: `10`  
->  Input 2: `5`  
+>  Number 1: `10`  
+>  Number 2: `5`  
 >  Operator: `/`  
 >  Result: `2`
 
