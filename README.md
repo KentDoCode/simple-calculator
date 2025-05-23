@@ -1,4 +1,5 @@
-# Simple Calculator
+## [Simple Calculator](https://simple-calculator-kent.netlify.app/)
+
 
 A basic web-based calculator that lets you:
 
